@@ -1,3 +1,4 @@
 # Projeto X-Men
-Site feito a fins de estudo
+Site com o proposito de mostrar os personagens do desenho X-MEN e seus poderes de forma estilizada e moderna.
+Desenvolvido com: Javascript, HTML, CSS. 
 
